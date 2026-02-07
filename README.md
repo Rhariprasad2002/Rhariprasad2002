@@ -2,7 +2,7 @@
 
 <div align="center">
   <img 
-    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=900&lines=Data+Analyst+%7C+Machine+Learning+Practitioner;Building+Real+World+ML+Solutions;Data+Visualization+%7C+Social+Impact"
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=900&lines=Data+Analyst+%7C+Machine+Learning;Building+Real+World+ML+Solutions;Data+Visualization+%7C+Social+Impact"
     alt="Typing SVG" 
   />
 </div>
@@ -16,7 +16,7 @@
 
 ## 🔍 About Me
 
-I’m a **Data Analyst & Machine Learning Practitioner** passionate about transforming data into intelligent solutions. I enjoy solving real-world problems using data, predictive modeling, and interactive dashboards that support decision-making in business and society.
+I’m a **Data Analyst & Machine Learning ** passionate about transforming data into intelligent solutions. I enjoy solving real-world problems using data, predictive modeling, and interactive dashboards that support decision-making in business and society.
 
 My work spans:
 - Predictive analytics
@@ -50,8 +50,10 @@ Each project includes data preprocessing, model building, evaluation, and deploy
 <img src="https://img.shields.io/badge/Excel-Expert-217346?style=flat&logo=microsoft-excel&logoColor=white">
 
 ### 🧪 ML & Programming  
-<img src="https://img.shields.io/badge/Python-ML-Projects-3776AB?style=flat&logo=python&logoColor=white">
-<img src="https://img.shields.io/badge/Scikit-Learn-ML-Models-F7931E?style=flat&logo=scikit-learn&logoColor=white">
+<img src="https://img.shields.io/badge/Python-Intermediate-3776AB?style=flat&logo=python&logoColor=white">
+<img src="https://img.shields.io/badge/Scikit--Learn-ML-F7931E?style=flat&logo=scikit-learn&logoColor=white">
+<img src="https://img.shields.io/badge/Pandas-Data%20Analysis-150458?style=flat&logo=pandas&logoColor=white">
+<img src="https://img.shields.io/badge/NumPy-Numerical%20Computing-013243?style=flat&logo=numpy&logoColor=white">
 
 ### 📈 Business Analytics  
 <img src="https://img.shields.io/badge/A/B%20Testing-Experienced-FF6B6B?style=flat">
