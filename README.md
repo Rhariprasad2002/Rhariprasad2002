@@ -28,16 +28,32 @@ My work spans:
 
 ## 💼 What I'm Building
 
-I focus on projects that combine machine learning with practical, real-world insights:
+## 💼 What I'm Building
 
-### 🚀 Featured Projects
-- **Global_AI_Career_Intelligence** – Streamlit app predicting AI job salaries using ML.
-- **data-visualization-projects** – Dashboards analyzing business KPIs & CSR data.
-- **Garbage-Classification-System** – Deep learning app for waste image classification.
-- **Car Price Prediction** – ML model estimating vehicle prices using feature engineering.
-- **CLV-Prediction-Auto-insurance** – Customer Lifetime Value prediction for insurance.
+I focus on **data analytics and machine learning projects** that transform raw data into **business insights, predictions, and decision-support tools**.
 
-Each project includes data preprocessing, model building, evaluation, and deployment.
+My work emphasizes:
+- Data cleaning & exploratory data analysis (EDA)
+- Feature engineering & statistical analysis
+- Machine learning model development
+- Insightful dashboards and data storytelling
+
+### 🚀 Featured Data Analytics & ML Projects
+
+- **Data Visualization Projects**  
+  Interactive dashboards analyzing **business KPIs, trends, and CSR metrics** using Power BI, Tableau, and Excel.
+  
+- **Global AI Career Intelligence**  
+  Data-driven salary analysis and ML-based salary prediction for AI roles using Python and Streamlit.
+  
+- **Customer Lifetime Value (CLV) Prediction – Auto Insurance**  
+  Predictive analytics project using historical customer data to estimate CLV and support business decision-making.
+
+- **Garbage Classification System**  
+  Image-based waste classification using deep learning, combined with data analysis of prediction performance.
+
+Each project follows a **complete data analytics workflow** — from raw data exploration to model building, evaluation, and deployment.
+
 
 ---
 
@@ -65,10 +81,9 @@ Each project includes data preprocessing, model building, evaluation, and deploy
 
 ## 🌱 Currently Learning
 
-- Advanced machine learning & model deployment (FastAPI)
-- Cloud hosting with AWS / Azure
-
----
+- Advanced machine learning algorithms and optimization techniques  
+- Research-driven machine learning using real-world data and controlled experiments  
+- Improving model interpretability and performance evaluation
 
 
 
