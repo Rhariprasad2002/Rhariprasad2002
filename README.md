@@ -1,16 +1,72 @@
-## Hi there 👋
+## Hi there, I'm R HARIPRASAD 👋
 
-<!--
-**Rhariprasad2002/Rhariprasad2002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+  <img 
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=900&lines=Data+Analyst+%7C+Machine+Learning+Practitioner;Building+Real+World+ML+Solutions;Data+Visualization+%7C+Social+Impact"
+    alt="Typing SVG" 
+  />
+</div>
 
-Here are some ideas to get you started:
+<p align="center">
+  <a href="https://linkedin.com/in/r-hariprasad-93123b304"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"></a>
+  <a href="mailto:rhariprasad2002@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-d14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🔍 About Me
+
+I’m a **Data Analyst & Machine Learning Practitioner** passionate about transforming data into intelligent solutions. I enjoy solving real-world problems using data, predictive modeling, and interactive dashboards that support decision-making in business and society.
+
+My work spans:
+- Predictive analytics
+- Machine learning models
+- Data visualization with Power BI, Tableau, Excel
+- Deploying interactive applications with Streamlit
+
+---
+
+## 💼 What I'm Building
+
+I focus on projects that combine machine learning with practical, real-world insights:
+
+### 🚀 Featured Projects
+- **Global_AI_Career_Intelligence** – Streamlit app predicting AI job salaries using ML.
+- **data-visualization-projects** – Dashboards analyzing business KPIs & CSR data.
+- **Garbage-Classification-System** – Deep learning app for waste image classification.
+- **Car Price Prediction** – ML model estimating vehicle prices using feature engineering.
+- **CLV-Prediction-Auto-insurance** – Customer Lifetime Value prediction for insurance.
+
+Each project includes data preprocessing, model building, evaluation, and deployment.
+
+---
+
+## 🧠 Skills
+
+### 📊 Analytics & Visualization  
+<img src="https://img.shields.io/badge/SQL-Advanced-4479A1?style=flat&logo=mysql&logoColor=white">
+<img src="https://img.shields.io/badge/Power%20BI-Expert-F2C811?style=flat&logo=powerbi&logoColor=black">
+<img src="https://img.shields.io/badge/Tableau-Intermediate-E97627?style=flat&logo=tableau&logoColor=white">
+<img src="https://img.shields.io/badge/Excel-Expert-217346?style=flat&logo=microsoft-excel&logoColor=white">
+
+### 🧪 ML & Programming  
+<img src="https://img.shields.io/badge/Python-ML-Projects-3776AB?style=flat&logo=python&logoColor=white">
+<img src="https://img.shields.io/badge/Scikit-Learn-ML-Models-F7931E?style=flat&logo=scikit-learn&logoColor=white">
+
+### 📈 Business Analytics  
+<img src="https://img.shields.io/badge/A/B%20Testing-Experienced-FF6B6B?style=flat">
+<img src="https://img.shields.io/badge/Statistical%20Analysis-Experienced-4ECDC4?style=flat">
+<img src="https://img.shields.io/badge/Predictive%20Modeling-Intermediate-45B7D1?style=flat">
+<img src="https://img.shields.io/badge/KPI%20Development-Experienced-96CEB4?style=flat">
+
+---
+
+## 🌱 Currently Learning
+
+- Advanced machine learning & model deployment (FastAPI)
+- Cloud hosting with AWS / Azure
+
+---
+
+
+
