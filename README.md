@@ -28,8 +28,6 @@ My work spans:
 
 ## 💼 What I'm Building
 
-## 💼 What I'm Building
-
 I focus on **data analytics and machine learning projects** that transform raw data into **business insights, predictions, and decision-support tools**.
 
 My work emphasizes:
